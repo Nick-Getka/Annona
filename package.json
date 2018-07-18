@@ -1,0 +1,23 @@
+{
+  "name": "annona-server",
+  "version": "1.0.0",
+  "description": "Annona: The Efficeint Meal Planning App",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick-Getka/Annona.git"
+  },
+  "author": "Nick Getka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick-Getka/Annona/issues"
+  },
+  "homepage": "https://github.com/Nick-Getka/Annona#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
