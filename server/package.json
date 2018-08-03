@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Nick-Getka/Annona#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.3.0"
   }
 }
